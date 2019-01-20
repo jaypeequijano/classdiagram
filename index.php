@@ -4,7 +4,7 @@
 <title>Class Diagram</title>
 </head>
 <body>
-<img src="classdiagram.jpg">
+<img src="class.jpg">
 <p>This diagram shows that the user table is connected to tbl_position this is to distinguish what type of user they might be, it either tutor or a client,which tutor provides the service and the client being served.The user table is link to subject table.
   In this matter both of user have access to subject table for tutor can choose what particular subject he can render service and to client what subject they need an appoinment.School and ratings table are also conneted to the users table. 
   School table as requirement for validation of educational attainment(for tutors only) and ratings for both users. 
